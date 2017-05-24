@@ -74,7 +74,7 @@ The code for this step is contained in the sixth code cell of the IPython notebo
 
 #### 1. My final video output.  
 
-Here's a [link to my video result](test_videos_output/project_video.mp4)
+`test_videos_output/project_video.mp4`
 
 ---
 
